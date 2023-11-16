@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\bin\Debug\net7.0\Rock-Paper-Scissor.exe
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\bin\Debug\net7.0\Rock-Paper-Scissor.deps.json
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\bin\Debug\net7.0\Rock-Paper-Scissor.runtimeconfig.json
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\bin\Debug\net7.0\Rock-Paper-Scissor.dll
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\bin\Debug\net7.0\Rock-Paper-Scissor.pdb
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\obj\Debug\net7.0\Rock-Paper-Scissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\obj\Debug\net7.0\Rock-Paper-Scissor.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\obj\Debug\net7.0\Rock-Paper-Scissor.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\obj\Debug\net7.0\Rock-Paper-Scissor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\obj\Debug\net7.0\Rock-Paper-Scissor.dll
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\obj\Debug\net7.0\refint\Rock-Paper-Scissor.dll
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\obj\Debug\net7.0\Rock-Paper-Scissor.pdb
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\obj\Debug\net7.0\Rock-Paper-Scissor.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Rock-Paper-Scissor\obj\Debug\net7.0\ref\Rock-Paper-Scissor.dll
